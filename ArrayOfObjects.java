@@ -1,3 +1,5 @@
+//WAP using a do while for creating an array 5 students with user define values
+// WAP create 5 employeeobject for an employee class and showthe count of no of employees
 import java.util.*;
 
 class Student1 {
